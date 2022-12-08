@@ -1,0 +1,21 @@
+This directory hold the results of experiments of Project 2 as well as the final paper. The following will describe the contents of each folder.
+
+Experiment1_Adagrad:
+Experiment1_Adagrad holds the experiments where the optimizer function was changed to adagrad. Inside the folder is a Results folder which has quantitative results of the model, a summary file which holds the summary of all epochs, and a top_ids file which gives us the top five classified ids for each image in the validation set. The first id is the top 1 id predicted. The ipynb, py and pdf of the experiments are also provided.
+
+Experiment2_RMSProp:
+Experiment2_RMSProp holds the experiments where the optimizer function was changed to RMSProp. Inside the folder is a Results folder which has quantitative results of the model, a summary file which holds the summary of all epochs, and a top_ids file which gives us the top five classified ids for each image in the validation set. The first id is the top 1 id predicted. The ipynb, py and pdf of the experiments are also provided.
+
+Experiment3_Adam:
+Experiment3_Adam holds the experiments where the optimizer function was changed to Adam. Inside the folder is a Results folder which has quantitative results of the model, a summary file which holds the summary of all epochs, and a top_ids file which gives us the top five classified ids for each image in the validation set. The first id is the top 1 id predicted. The ipynb, py and pdf of the experiments are also provided.
+
+Experiment4_MaxPool:
+Experiment4_MaxPool holds the experiments where the global pool layer was changed to max pool instead of average pool. Inside the folder is a Results folder which has quantitative results of the model, a summary file which holds the summary of all epochs, and a top_ids file which gives us the top five classified ids for each image in the validation set. The first id is the top 1 id predicted. The ipynb, py and pdf of the experiments are also provided.
+
+Experiment5_ActivationFunction:
+Experiment5_ActivationFunction holds the experiments where Adam was used as optimizer (since it performed the best) and activation function Elu was used. Inside the folder is a Results folder which has quantitative results of the model, a summary file which holds the summary of all epochs, and a top_ids file which gives us the top five classified ids for each image in the validation set. The first id is the top 1 id predicted. The ipynb, py and pdf of the experiments are also provided.
+
+Final Report:
+The folder titled Final Report holds the final paper for Project 2
+
+
